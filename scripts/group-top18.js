@@ -2,7 +2,7 @@ const moment = require("moment");
 const fs = require("fs");
 
 const start = moment.unix(1661659200);
-const end = moment.unix(1662213660);
+const end = moment.unix(1662217200);
 
 const run = async () => {
 	const groups = {};
@@ -25,7 +25,7 @@ const run = async () => {
 					.unix(fileTime)
 					.isBetween(
 						moment.unix(key),
-						moment.unix(key).add(1, "days"),
+						moment.unix(key).add(4, "hours"),
 						undefined,
 						"[)"
 					)
