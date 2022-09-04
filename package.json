@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
+    "group-top16": "node scripts/group-top16.js",
     "group-top18": "node scripts/group-top18.js",
     "group-top21": "node scripts/group-top21.js",
     "group-top30": "node scripts/group-top30.js"
