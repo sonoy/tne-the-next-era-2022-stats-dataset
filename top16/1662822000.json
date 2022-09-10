@@ -1,0 +1,24 @@
+{
+	"time": "2022-09-10T23:00:00",
+	"unixTime": 1662822000,
+	"fResult": [
+		{ "id": 2, "votes": 0.123612714, "totalVotes": 5569, "rank": 5 },
+		{ "id": 3, "votes": 0.136864068, "totalVotes": 6166, "rank": 1 },
+		{ "id": 4, "votes": 0.129383823, "totalVotes": 5829, "rank": 2 },
+		{ "id": 7, "votes": 0.123856876, "totalVotes": 5580, "rank": 4 },
+		{ "id": 12, "votes": 0.137973897, "totalVotes": 6216, "rank": 0 },
+		{ "id": 14, "votes": 0.098486194, "totalVotes": 4437, "rank": 7 },
+		{ "id": 17, "votes": 0.122636065, "totalVotes": 5525, "rank": 6 },
+		{ "id": 26, "votes": 0.127186362, "totalVotes": 5730, "rank": 3 }
+	],
+	"mResult": [
+		{ "id": 27, "votes": 0.112161375, "totalVotes": 4426, "rank": 6 },
+		{ "id": 28, "votes": 0.133473556, "totalVotes": 5267, "rank": 2 },
+		{ "id": 32, "votes": 0.120346671, "totalVotes": 4749, "rank": 4 },
+		{ "id": 34, "votes": 0.131623628, "totalVotes": 5194, "rank": 3 },
+		{ "id": 37, "votes": 0.179569702, "totalVotes": 7086, "rank": 0 },
+		{ "id": 43, "votes": 0.143382073, "totalVotes": 5658, "rank": 1 },
+		{ "id": 46, "votes": 0.062720154, "totalVotes": 2475, "rank": 7 },
+		{ "id": 49, "votes": 0.11672284, "totalVotes": 4606, "rank": 5 }
+	]
+}
