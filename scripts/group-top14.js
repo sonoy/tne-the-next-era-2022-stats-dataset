@@ -3,12 +3,14 @@ const fs = require("fs");
 
 const start = moment.unix(1662868800);
 const end = moment.unix(1663426800);
+const now = moment();
+const last = moment.unix(now.unix() - now.unix() % 14400);
 
 const run = async () => {
 	const groups = {};
 
 	let t = moment.unix(start.unix());
-	while (t.isBefore(end)) {
+	while (t.isBefore(end) && t.isBefore(last)) {
 		groups[t.unix()] = [];
 
 		t = t.add("4", "hours");
