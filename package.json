@@ -1,20 +1,21 @@
 {
-  "name": "tne-the-next-era-2022-stats-dataset",
-  "version": "1.0.0",
-  "description": "Dataset for The Next Era 2022 Stats",
-  "main": "index.js",
-  "repository": "https://github.com/sonoy/tne-the-next-era-2022-stats-dataset.git",
-  "author": "SonoY",
-  "license": "MIT",
-  "private": true,
-  "scripts": {
-    "group-top14": "node scripts/group-top14.js",
-    "group-top16": "node scripts/group-top16.js",
-    "group-top18": "node scripts/group-top18.js",
-    "group-top21": "node scripts/group-top21.js",
-    "group-top30": "node scripts/group-top30.js"
-  },
-  "dependencies": {
-    "moment": "^2.29.4"
-  }
+	"name": "tne-the-next-era-2022-stats-dataset",
+	"version": "1.0.0",
+	"description": "Dataset for The Next Era 2022 Stats",
+	"main": "index.js",
+	"repository": "https://github.com/sonoy/tne-the-next-era-2022-stats-dataset.git",
+	"author": "SonoY",
+	"license": "MIT",
+	"private": true,
+	"scripts": {
+		"group-top12": "node scripts/group-top12.js",
+		"group-top14": "node scripts/group-top14.js",
+		"group-top16": "node scripts/group-top16.js",
+		"group-top18": "node scripts/group-top18.js",
+		"group-top21": "node scripts/group-top21.js",
+		"group-top30": "node scripts/group-top30.js"
+	},
+	"dependencies": {
+		"moment": "^2.29.4"
+	}
 }
