@@ -2,7 +2,7 @@ const moment = require("moment");
 const fs = require("fs");
 
 const start = moment.unix(1663473600);
-const end = moment.unix(1664031600);
+const end = moment.unix(1664118000);
 const now = moment();
 const last = moment.unix(now.unix() - now.unix() % 14400);
 
