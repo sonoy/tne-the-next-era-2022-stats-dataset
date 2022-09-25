@@ -1,0 +1,20 @@
+{
+	"time": "2022-09-25T23:00:00",
+	"unixTime": 1664118000,
+	"fResult": [
+		{ "id": 2, "totalVotes": 12902, "rank": 1 },
+		{ "id": 3, "totalVotes": 12891, "rank": 2 },
+		{ "id": 4, "totalVotes": 13038, "rank": 0 },
+		{ "id": 7, "totalVotes": 12633, "rank": 4 },
+		{ "id": 12, "totalVotes": 12682, "rank": 3 },
+		{ "id": 26, "totalVotes": 9974, "rank": 5 }
+	],
+	"mResult": [
+		{ "id": 27, "totalVotes": 11322, "rank": 3 },
+		{ "id": 28, "totalVotes": 15299, "rank": 0 },
+		{ "id": 34, "totalVotes": 11294, "rank": 5 },
+		{ "id": 37, "totalVotes": 14588, "rank": 1 },
+		{ "id": 43, "totalVotes": 14427, "rank": 2 },
+		{ "id": 49, "totalVotes": 11318, "rank": 4 }
+	]
+}
